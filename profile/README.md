@@ -7,7 +7,7 @@
 ## Site shortcuts :stopwatch:
 
 * Epoch Converter supports keyboard shotcuts, notice the underlined letters on the submit button. Type 'e' to go directly to the first searchbox.
-* Use 'q' as a GET param to quick search (for example: ?q=1700000000). This also works on various other pages.
+* Use 'q' as a GET param to quick search (for example: ?q=1700000000). This also works on various pages.
 
 <!--
 
